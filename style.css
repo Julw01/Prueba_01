@@ -1,0 +1,16 @@
+
+body {
+    font-family: cursive;
+    font-size: 2rem;
+    text-align: center;
+    background-color: black;
+}
+
+h1 {
+    color: white;
+    font-weight: bold;
+}
+
+p {
+    color: white
+}
